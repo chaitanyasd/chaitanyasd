@@ -1,2 +1,2 @@
-Hi there 👋 <br>
-🌱 I’m currently learning Go 🦀
+### Hi there 👋
+I’m currently learning Go :zap:
