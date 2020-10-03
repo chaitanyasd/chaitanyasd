@@ -1,2 +1,2 @@
 ### Hi there 👋
-I’m currently learning Go :zap:
+I’m currently learning Go :zap: and Python :snake:
