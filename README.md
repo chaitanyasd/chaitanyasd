@@ -1,5 +1,5 @@
 ### Hi there 👋
-Currently learning Go :zap: and Python :snake:
+Currently learning Go :zap:
 
 Working at <img align="center" alt="codeSTACKr | NVIDIA" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/nvidia.svg" />
 
