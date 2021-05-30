@@ -1,7 +1,7 @@
 ### Hello!
-Currently pursuing MS in CS :zap:
+Incoming MSCS student at USC :zap:
 
-Worked previously at <img align="center" alt="codeSTACKr | NVIDIA" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/nvidia.svg" />
+Working currently at <img align="center" alt="codeSTACKr | NVIDIA" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/nvidia.svg" />
 
 #### Connect with me
 
